@@ -1,7 +1,38 @@
-h1{
-    color: red;
+
+/* Style the webpage */
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightyellow;
 }
-p,
+
+/* Style the heading */
+h1 {
+  color: blue;
+}
+
+/* Style paragraphs */
+p {
+  color:black;
+  font-size: 18px;
+}
+
+/* Style span elements */
+span {
+  color: red;
+}
+
+/* Style links */
+a {
+  color: blue;
+}
+
+/* Style the list */
 li {
-  color: green;
+  margin: 10px;
+
+}
+
+/* Style emphasized text */
+em {
+  color: purple;
 }
