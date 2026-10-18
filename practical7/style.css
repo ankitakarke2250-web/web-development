@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.box1 {
+    border: 3px solid red;
+    margin: 20px;
+    padding: 15px;
+    background-color: lightyellow;
+}
+
+.box2 {
+    border: 3px dashed green;
+    margin: 30px;
+    padding: 25px;
+    background-color: white;
+}
+
+.box3 {
+    border: 4px dotted blue;
+    margin: 15px;
+    padding: 20px;
+    background-color: lightpink;
+}
