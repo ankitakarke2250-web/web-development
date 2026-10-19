@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    padding: 15px;
+}
+
+.navbar {
+    background-color: darkblue;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    background-color: lightyellow;
+    color: darkblue;
+}
+
+section {
+    padding: 20px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+h2 {
+    color: darkgreen;
+}
