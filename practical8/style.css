@@ -1,0 +1,28 @@
+```css
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.box {
+    width: 300px;
+    background-color: lightyellow;
+    border: 5px solid red;
+    padding: 25px;
+    margin: 30px auto;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    color: darkblue;
+    font-size: 18px;
+}
+```
